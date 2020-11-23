@@ -1,1 +1,3 @@
 # AutomatedReleaseNotesPoC
+
+Adding some documentation
